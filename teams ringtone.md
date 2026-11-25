@@ -58,4 +58,4 @@ https://tflteams.public.onecdn.static.microsoft/evergreen-assets/audio/ (persona
 ## Validation
 
 - Ping replacement tested on New Teams Desktop.
-- Incoming call replacement tested on a real call (work profile, 2026-11-25).
+- Incoming call replacement tested on a real call
